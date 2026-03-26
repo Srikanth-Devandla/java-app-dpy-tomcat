@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>Winter Collection — Premium Picks</h1>
+                <h1>Mansoon Collection — Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
@@ -805,7 +805,7 @@
             {
                 id: 6,
                 title: 'Chanel No. 5',
-                price: 199,
+                price: 144,
                 rating: 5,
                 reviews: 189,
                 img: 'https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=600&q=80',
